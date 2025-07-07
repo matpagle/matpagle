@@ -1,5 +1,5 @@
 ##  🐦‍⬛ Hi there
-I'm s Matteo Giuliani, and I work as a Research Fellow at Sapienza University of Rome, where I also completed my MSc in Ecobiology.
+I'm Matteo Giuliani, and I work as a Research Fellow at Sapienza University of Rome, where I also completed my MSc in Ecobiology.
 
 My reseaches focus on eco-acoustic and urban ecology; specifically, I'm interested in the interpretation of the soundscape for conservattion purposes, and the effects of the urban sprawl and human population growth on biodiversity, with particular attention to avian species.
 
