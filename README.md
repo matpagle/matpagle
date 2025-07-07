@@ -1,12 +1,15 @@
-## Hi there 🐦‍⬛
+##  🐦‍⬛ Hi there
 I'm s Matteo Giuliani, and I work as a Research Fellow at Sapienza University of Rome, where I also completed my MSc in Ecobiology.
 
 My reseaches focus on eco-acoustic and urban ecology; specifically, I'm interested in the interpretation of the soundscape for conservattion purposes, and the effects of the urban sprawl and human population growth on biodiversity, with particular attention to avian species.
 
-### I'm currently working on:
+### 🛠️ I'm currently working on:
 - Quantifying the magnitude of human noises contribution on the soundscape.
 - Investigating the effect of soundscape intruders, i.e., human noises and alien species, on native birds' songs.
 - Define the effect of urbanization on multiple taxa, spanning from plants, pollinators
+
+### 🤜🤛 Collaboration 
+I’m always open to collaborating on projects that align with my research interests, feel free to get in touch!
 <!--
 **matpagle/matpagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
